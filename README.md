@@ -1,3 +1,10 @@
+Hi, I am fancywales, and this repo contains my solutions to the Rustlings exercises.
+I forked this repo on 07/31/2022, so the exercises are current as of that date.
+
+Feel free to reach out to me with questions about my solutions! I'm new to rust too but happy to learn together!
+
+Below is the README for the Original Repo :D
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
